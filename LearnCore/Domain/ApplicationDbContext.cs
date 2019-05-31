@@ -17,5 +17,7 @@ namespace LearnCore.Domain
         public DbSet<SYS_USER> SYS_USER { get; set; }
         public DbSet<Blog> Blog { get; set; }
 
+        public DbSet<Position> Position { get; set; }
+
     }
 }

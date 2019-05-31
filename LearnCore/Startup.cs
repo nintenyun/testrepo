@@ -38,6 +38,7 @@ namespace LearnCore
 
 
             services.AddTransient<IBlog, BlogService>();
+            services.AddTransient<IPosition, PositionService>();
             services.AddTransient<IUserManage,UserManage>();
         }
 

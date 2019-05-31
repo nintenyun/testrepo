@@ -13,16 +13,16 @@ namespace LearnCore.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        public IBlog _iblog;
-        public ValuesController(IBlog iblog)
+        public IPosition _ipos;
+        public ValuesController(IPosition ipos)
         {
-            _iblog = iblog;
+            _ipos = ipos;
         }
         // GET api/values
         [HttpGet]
-        public List<Blog> Get()
+        public List<Position> Get()
         {
-            return _iblog.LoadListAll(q => q.title=="1");
+            return _ipos.LoadListAll(q => q.id!=0);
         }
 
     }

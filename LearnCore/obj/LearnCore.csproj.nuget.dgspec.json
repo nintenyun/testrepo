@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cloudjia\\source\\repos\\LearnCore\\LearnCore\\LearnCore.csproj": {}
+    "C:\\Users\\cloudjia\\Desktop\\repo\\LearnCore\\LearnCore\\LearnCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cloudjia\\source\\repos\\LearnCore\\LearnCore\\LearnCore.csproj": {
+    "C:\\Users\\cloudjia\\Desktop\\repo\\LearnCore\\LearnCore\\LearnCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cloudjia\\source\\repos\\LearnCore\\LearnCore\\LearnCore.csproj",
+        "projectUniqueName": "C:\\Users\\cloudjia\\Desktop\\repo\\LearnCore\\LearnCore\\LearnCore.csproj",
         "projectName": "LearnCore",
-        "projectPath": "C:\\Users\\cloudjia\\source\\repos\\LearnCore\\LearnCore\\LearnCore.csproj",
+        "projectPath": "C:\\Users\\cloudjia\\Desktop\\repo\\LearnCore\\LearnCore\\LearnCore.csproj",
         "packagesPath": "C:\\Users\\cloudjia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cloudjia\\source\\repos\\LearnCore\\LearnCore\\obj\\",
+        "outputPath": "C:\\Users\\cloudjia\\Desktop\\repo\\LearnCore\\LearnCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
